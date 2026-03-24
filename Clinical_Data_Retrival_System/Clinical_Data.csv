@@ -1,0 +1,101 @@
+Patient_ID,Name,Age,DOB,Gender,Disease,Medicine
+P001,Aarav Sharma,29,1997-05-12,Male,Hypertension,Amlodipine 5mg
+P002,Aditi Deshmukh,34,1992-08-22,Female,Type 2 Diabetes,Metformin 500mg
+P003,Ishaan Malhotra,45,1981-01-15,Male,Acute Bronchitis,Azithromycin 500mg
+P004,Sanya Bhardwaj,22,2004-11-30,Female,Iron Deficiency Anemia,Ferrous Sulfate 325mg
+P005,Rohan Chatterjee,55,1971-03-04,Male,Hyperlipidemia,Atorvastatin 20mg
+P006,Meera Pillai,62,1964-07-19,Female,Osteoarthritis,Naproxen 500mg
+P007,Kabir Negi,38,1988-12-05,Male,Gastroesophageal Reflux,Omeprazole 20mg
+P008,Ananya Saxena,27,1999-02-25,Female,Migraine,Sumatriptan 50mg
+P009,Arjun Mehra,31,1995-06-10,Male,Asthma,Salbutamol Inhaler
+P010,Diya Soni,19,2007-09-14,Female,Acne Vulgaris,Benzoyl Peroxide Gel
+P011,Nikhil Bansal,42,1984-04-22,Male,Insomnia,Zolpidem 5mg
+P012,Pooja Tiwari,26,2000-10-08,Female,Urinary Tract Infection,Nitrofurantoin 100mg
+P013,Rahul Goud,50,1976-05-20,Male,Gout,Allopurinol 100mg
+P014,Kriti Reddy,33,1993-07-27,Female,Hypothyroidism,Levothyroxine 50mcg
+P015,Vikram Joshi,48,1978-02-11,Male,Allergic Rhinitis,Loratadine 10mg
+P016,Sneha Nair,24,2002-12-01,Female,Common Cold,Paracetamol 500mg
+P017,Siddharth Pandey,52,1974-09-18,Male,Angina Pectoris,Nitroglycerin 0.4mg
+P018,Kiara Shinde,30,1996-07-31,Female,PCOS,Spironolactone 50mg
+P019,Yashwanth Rao,41,1985-03-15,Male,Peptic Ulcer,Ranitidine 150mg
+P020,Tara Singh,28,1998-11-19,Female,Generalized Anxiety,Escitalopram 10mg
+P021,Devinder Gill,36,1990-01-25,Male,Psoriasis,Hydrocortisone Cream
+P022,Janhvi Mishra,27,1999-03-06,Female,Dysmenorrhea,Mefenamic Acid 500mg
+P023,Ranbir Khanna,41,1985-09-28,Male,Eczema,Betamethasone Ointment
+P024,Sara Chauhan,28,1998-08-12,Female,Stomatitis,Triamcinolone Paste
+P025,Varun Pradhan,36,1990-04-24,Male,Conjunctivitis,Ofloxacin Eye Drops
+P026,Alia Varma,31,1995-03-15,Female,Pharyngitis,Amoxicillin 500mg
+P027,Tushar Goel,34,1992-03-02,Male,Muscle Strain,Cyclobenzaprine 5mg
+P028,Shraddha Iyer,37,1989-03-03,Female,Tonsillitis,Erythromycin 250mg
+P029,Ayush Gupta,39,1987-09-14,Male,Vitamin D Deficiency,Cholecalciferol 60K
+P030,Rashmi Kulkarni,28,1998-04-05,Female,Sinusitis,Fluticasone Nasal Spray
+P031,Vijay Chauhan,35,1991-05-09,Male,Otitis Externa,Ciprofloxacin Drops
+P032,Sanjana Hegde,37,1989-04-28,Female,Urticaria,Cetirizine 10mg
+P033,Prakash Jha,44,1982-10-23,Male,Kidney Stones,Tamsulosin 0.4mg
+P034,Nandini Das,39,1987-11-18,Female,Vertigo,Betahistine 16mg
+P035,Anand Rangan,42,1984-04-08,Male,Dermatitis,Clobetasol Propionate
+P036,Tanvi Bhatt,41,1985-05-04,Female,Cystitis,Fosfomycin 3g
+P037,Ramit Sethi,39,1987-03-27,Male,Obesity,Orlistat 120mg
+P038,Tanya Bajaj,34,1992-12-21,Female,Amoebiasis,Metronidazole 400mg
+P039,Manoj Prasad,48,1978-08-09,Male,Glaucoma,Latanoprost Drops
+P040,Kajal Aggarwal,38,1988-06-19,Female,Candidiasis,Fluconazole 150mg
+P041,Naveen Kumar,41,1985-05-20,Male,Sciatica,Pregabalin 75mg
+P042,Rakul Preet Singh,33,1993-10-10,Female,Depression,Sertraline 50mg
+P043,Dulquer Mohammed,37,1989-07-28,Male,Chickenpox,Acyclovir 800mg
+P044,Keerthy Suresh,31,1995-10-17,Female,Laryngitis,Dexamethasone 4mg
+P045,Fahadh Fazil,41,1985-08-08,Male,Epilepsy,Levetiracetam 500mg
+P046,Sai Pallavi,32,1994-05-09,Female,Fibromyalgia,Duloxetine 30mg
+P047,Surya Sivakumar,48,1978-07-23,Male,Pneumonia,Levofloxacin 500mg
+P048,Jyothika Saravanan,45,1981-10-18,Female,Endometriosis,Danazol 200mg
+P049,Vikram Kennedy,58,1968-04-17,Male,Cataract,Post-Op Eye Drops
+P050,Anushka Shetty,42,1984-11-07,Female,Gallstones,Ursodeoxycholic Acid
+P051,Yash Rajan,38,1988-01-08,Male,Tuberculosis,Rifampin 600mg
+P052,Pooja Jha,29,1997-06-15,Female,Scabies,Permethrin Cream
+P053,Amit Shahani,44,1982-02-14,Male,Herpes Zoster,Valacyclovir 1g
+P054,Riya Sen,35,1991-09-30,Female,Alopecia,Minoxidil 5% Solution
+P055,Sanjay Dutt,64,1962-07-29,Male,COPD,Tiotropium Inhaler
+P056,Vidya Balan,45,1981-01-01,Female,Mastitis,Cephalexin 500mg
+P057,Akshay Kumaraswamy,56,1970-09-09,Male,Plantar Fasciitis,Ibuprofen 400mg
+P058,Kareena Kapur,43,1983-09-21,Female,Melasma,Hydroquinone Cream
+P059,Saif Ali Khan,53,1973-08-16,Male,Hyperthyroidism,Methimazole 10mg
+P060,Tabu Hashmi,52,1974-11-04,Female,Tinnitus,Ginkgo Biloba Extract
+P061,Emraan Hashmi,45,1981-03-24,Male,Fungal Infection,Terbinafine 250mg
+P062,Rani Mukerji,46,1980-03-21,Female,Osteoporosis,Alendronate 70mg
+P063,John Abraham,51,1975-12-17,Male,Lipoma,Surgical Removal
+P064,Bipasha Basu,45,1981-01-07,Female,Hyperhidrosis,Glycopyrrolate
+P065,Abhishek Bachchan,48,1978-02-05,Male,Dyslipidemia,Rosuvastatin 10mg
+P066,Aishwarya Rai,50,1976-11-01,Female,Hypocalcemia,Calcium Citrate
+P067,Hrithik Roshan,50,1976-01-10,Male,Scoliosis,Physical Therapy
+P068,Preity Zinta,49,1977-01-31,Female,Rosacea,Metronidazole Gel
+P069,Vivek Oberoi,47,1979-09-03,Male,Bronchial Asthma,Budesonide Inhaler
+P070,Sushmita Sen,48,1978-11-19,Female,Mitral Valve Prolapse,Propranolol 10mg
+P071,Shah Rukh Khan,60,1966-11-02,Male,Shoulder Impingement,Diclofenac Gel
+P072,Juhi Chawla,58,1968-11-13,Female,Phobia,Alprazolam 0.25mg
+P073,Salman Khan,60,1966-12-27,Male,Trigeminal Neuralgia,Carbamazepine 200mg
+P074,Madhuri Dixit,56,1970-05-15,Female,Menopause,Estradiol Patch
+P075,Aamir Khan,61,1965-03-14,Male,Gingivitis,Chlorhexidine Rinse
+P076,Kajol Devgan,49,1977-08-05,Female,Dry Eye Syndrome,Cyclosporine Drops
+P077,Ajay Devgan,55,1971-04-02,Male,Peptic Esophagitis,Pantoprazole 40mg
+P078,Raveena Tandon,51,1975-10-26,Female,Thyroiditis,Prednisone 5mg
+P079,Suniel Shetty,62,1964-08-11,Male,Tennis Elbow,Corticosteroid Injection
+P080,Urmila Matondkar,50,1976-02-04,Female,Hirsutism,Eflornithine Cream
+P081,Govinda Ahuja,62,1964-12-21,Male,Knee Bursitis,Naproxen 500mg
+P082,Karisma Kapoor,49,1977-06-25,Female,Migraine with Aura,Rizatriptan 10mg
+P083,Bobby Deol,55,1971-01-27,Male,Folliculitis,Mupirocin Ointment
+P084,Twinkle Khanna,52,1974-12-29,Female,Contact Dermatitis,Triamcinolone Cream
+P085,Sunny Deol,69,1957-10-19,Male,Lumbar Spondylosis,Gabapentin 300mg
+P086,Shilpa Shetty,48,1978-06-08,Female,Bacterial Vaginosis,Clindamycin Cream
+P087,Arjun Rampal,51,1975-11-26,Male,Nasal Polyps,Mometasone Spray
+P088,Lara Dutta,46,1980-04-16,Female,Postpartum Depression,Fluoxetine 20mg
+P089,Farhan Akhtar,52,1974-01-09,Male,Seborrheic Dermatitis,Ketoconazole Shampoo
+P090,Dia Mirza,44,1982-12-09,Female,Uterine Fibroids,Leuprolide Acetate
+P091,Shahid Kapoor,45,1981-02-25,Male,Anal Fissure,Nitroglycerin Ointment
+P092,Amrita Rao,44,1982-06-07,Female,Anorexia,Nutritional Therapy
+P093,Riteish Deshmukh,47,1979-12-17,Male,Oral Thrush,Nystatin Suspension
+P094,Genelia Dsouza,38,1988-08-05,Female,Hemorrhoids,Hydrocortisone Suppository
+P095,Kartik Aaryan,35,1991-11-22,Male,Dengue Fever,Hydration + Paracetamol
+P096,Sara Tendulkar,28,1998-10-12,Female,Iron Deficiency,Ferrous Ascorbate
+P097,Ishan Kishan,27,1999-07-18,Male,Viral Fever,Paracetamol 650mg
+P098,Smriti Mandhana,29,1997-07-18,Female,Shoulder Strain,Aceclofenac 100mg
+P099,Hardik Pandya,32,1994-10-11,Male,Lower Back Pain,Baclofen 10mg
+P100,Mithali Raj,43,1983-12-03,Female,Osteopenia,Vitamin D3 + Calcium

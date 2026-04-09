@@ -1,31 +1,49 @@
-Clinical Data Retrieval System
+[README.md](https://github.com/user-attachments/files/26610696/README.md)
+# Clinical Data Retrieval System
 
-A lightweight Python-based tool designed to quickly search and retrieve patient medical records from a CSV database. This project is part of a larger initiative to manage and search clinical data efficiently.
+A robust, modular Python-based system designed to automate the extraction, transformation, and storage of clinical research information. This project implements a reliable data pipeline to gather and organize data regarding Clinical Research Agents for advanced analysis.
 
-🚀 FEATURES:
+## 🚀 Project Overview
 
-1.Instant Search: Retrieve full patient details by entering their name.
+The **Clinical Data Retrieval System** solves the challenge of manual data collection in the medical research field. By implementing a modular architecture, the system ensures high maintainability and scalability for various clinical data sources.
 
-2.Error Handling: Case-insensitive search with clear feedback if a patient record is missing.
+### Key Objectives:
+* **Automated Extraction:** Systematic scraping of clinical research agent profiles.
+* **Data Normalization:** Cleaning and structuring raw data using Pandas.
+* **Efficient Storage:** Organizing data into a searchable format for rapid retrieval and database integration.
 
-3.Data Integrity: Uses pandas for high-performance data manipulation and indexing.
+## 🛠️ Technical Architecture
 
-🛠️ PREREQUISITES:
+The system follows a modular **ETL (Extract, Transform, Load)** design:
 
-Before running the script, ensure you have Python and the pandas library installed:  pip install pandas
+1. **Extraction Module:** Utilizes `Requests` and `BeautifulSoup` to navigate and pull raw data from target web sources.
+2. **Transformation Module:** Leverages `Pandas` and `NumPy` to handle missing values, format strings, and ensure data integrity.
+3. **Storage Module:** Manages the structured output, facilitating a searchable environment for clinical metadata.
 
-📂 PROJECT STRUCTURE:
+[Image of ETL data pipeline architecture]
 
-  1.main.py: The core script for searching records.
-  
-  2.Clinical_Data.csv: The database file (ensure the first column is Name).
+## 📁 Repository Structure
 
-  📖 HOW TO USE:
-       
-  1.Ensure your Clinical_Data.csv file is in the same directory as the script.
-  
-  2.Run the program:  python main.py
+* `main.py`: The central orchestrator that triggers and manages the pipeline flow.
+* `scraper.py`: Dedicated module for targeted data extraction and web navigation.
+* `processor.py`: Contains the logic for data cleaning, type conversion, and normalization.
+* `exporter.py`: Manages data persistence into structured formats (CSV, JSON, or SQL).
 
-  📈CODE SNIPPET:
-  
-  The retrieval logic utilizes the .loc indexer for $O(1)$ average time complexity.
+## ⚙️ Requirements
+
+* **Python:** 3.14+
+* **Libraries:**
+  ```bash
+  pip install pandas numpy beautifulsoup4 requests
+  ```
+
+## 🧠 Technical Key Learnings
+
+* **Modular System Design:** Breaking the pipeline into independent modules allows for isolated debugging and easy updates when source layouts change.
+* **Data Integrity & Validation:** Implementing rigorous checks during the transformation phase to ensure high-quality data for clinical analysis.
+* **Resilient Scraping:** Handling network exceptions, timeouts, and inconsistent data fields gracefully.
+
+## 👤 Author
+**Sravan**
+* 2nd Year B.Tech CSE (AI) Student @ Om Sterling Global University
+* Focus: AI/ML & Data Engineering
